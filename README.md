@@ -1,4 +1,4 @@
-### Hi there, I am Görkem 👋 !
+### Hi there, I am Görkem 👋 
 
 ## About Me 🧑‍💻
 
