@@ -18,8 +18,11 @@
 |:-:|:-:|:-:|:-:|:-:|
 |<img style="width: 100px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">|<img style="width: 100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 100px" src="https://iconape.com/wp-content/files/ny/112469/png/vue-9.png">|
 
+<hr> 
 
-
+<h2>Profile</h2>
+<span align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 69%" src="https://github-profile-trophy.vercel.app/?username=GorkemEldeniz" alt="GorkemEldeniz"/></a></span>
+<span align="right"><img style="width: 29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GorkemEldeniz&show_icons=true&locale=en&layout=compact" alt="GorkemEldeniz" /></span>
 
 <hr>
 <h2>Stats</h2>
