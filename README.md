@@ -3,8 +3,9 @@
 ## About Me 🧑‍💻
 
 <div style="display:flex;flex-direction:column;width:100%;gap:10px;font-size:16px;">
-<font style="flex-basis:40%;" color="#000"><i>I am an engineer student in Turkey also try to be a frontend developer.I am 23 years old</i>
-</font>
+  
+***I am an engineer student in Turkey also try to be a frontend developer.I am 23 years old***
+  
 <br>
 <img src="https://media0.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47zqee0fnp0tzra0r8kr66ecwmiz81t7f06mr9lu97&rid=giphy.gif&ct=g"></img>
 </div>
