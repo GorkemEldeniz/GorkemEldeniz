@@ -29,6 +29,8 @@
 <center><img src="https://github-readme-stats.vercel.app/api?username=GorkemEldeniz&show_icons=true&theme=tokyonight"></img></center>
 <br><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorkemEldeniz&exclude_repo=github-readme-stats,anuraghazra.github.io"></img></center><hr>
 
+![snake gif](https://github.com/furkanlebit7/GorkemEldeniz/blob/output/github-contribution-grid-snake.gif)
+
 ## Hobbies 
 
 
