@@ -30,11 +30,9 @@
 </p>
 
 <hr>
-
-<center>
 <h2>Stats</h2>
 <center><img src="https://github-readme-stats.vercel.app/api?username=GorkemEldeniz&show_icons=true&theme=tokyonight"></img></center>
-<br><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorkemEldeniz&exclude_repo=github-readme-stats,anuraghazra.github.io"></img></center><hr></center>
+<br><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorkemEldeniz&exclude_repo=github-readme-stats,anuraghazra.github.io"></img></center><hr>
 
 
 ## Hobbies 
