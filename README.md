@@ -30,6 +30,7 @@
 </p>
 
 <hr>
+
 <center>
 <h2>Stats</h2>
 <center><img src="https://github-readme-stats.vercel.app/api?username=GorkemEldeniz&show_icons=true&theme=tokyonight"></img></center>
