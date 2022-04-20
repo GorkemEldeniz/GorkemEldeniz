@@ -23,13 +23,19 @@
 <h2>Profile</h2>
 <span align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 69%" src="https://github-profile-trophy.vercel.app/?username=GorkemEldeniz" alt="GorkemEldeniz"/></a></span>
 <span align="right"><img style="width: 29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GorkemEldeniz&show_icons=true&locale=en&layout=compact" alt="GorkemEldeniz" /></span>
+<br>
+
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/g%C3%B6rkem-eldeniz-017886218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
+  <a target="_blank" href="https://www.instagram.com/grkemeldeniz/"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a target="_blank" href="mailto:gorkemeldeniz30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 <hr>
 <h2>Stats</h2>
 <center><img src="https://github-readme-stats.vercel.app/api?username=GorkemEldeniz&show_icons=true&theme=tokyonight"></img></center>
 <br><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorkemEldeniz&exclude_repo=github-readme-stats,anuraghazra.github.io"></img></center><hr>
 
-![snake gif](https://github.com/furkanlebit7/GorkemEldeniz/blob/output/github-contribution-grid-snake.gif)
 
 ## Hobbies 
 
