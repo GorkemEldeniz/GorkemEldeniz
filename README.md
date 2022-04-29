@@ -23,10 +23,11 @@
 <h2>Profile</h2>
 <span align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 69%" src="https://github-profile-trophy.vercel.app/?username=GorkemEldeniz" alt="GorkemEldeniz"/></a></span>
 
-<p align="center">
+<p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/g%C3%B6rkem-eldeniz-017886218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
   <a target="_blank" href="https://www.instagram.com/grkemeldeniz/"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a target="_blank" href="mailto:gorkemeldeniz30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="https://www.hackerrank.com/gorkemeldeniz30"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </p>
 
 <hr>
