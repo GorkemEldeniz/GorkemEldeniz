@@ -4,7 +4,7 @@
 
 <div style="display:flex;flex-direction:column;width:100%;gap:10px;font-size:16px;">
   
-***I am an engineer student in Turkey also try to be a frontend developer.I am 23 years old***
+***I am an engineer student in Turkey also try to be a frontend developer.I am 26 years old***
   
 <br>
 <img src="https://media0.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47zqee0fnp0tzra0r8kr66ecwmiz81t7f06mr9lu97&rid=giphy.gif&ct=g"></img>
@@ -24,6 +24,7 @@
 <span align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 69%" src="https://github-profile-trophy.vercel.app/?username=GorkemEldeniz" alt="GorkemEldeniz"/></a></span>
 
 <p align="left">
+  <a target="_blank" href="https://www.gorkemeldeniz.com">Personal Web Site</a>
   <a target="_blank" href="https://www.linkedin.com/in/g%C3%B6rkem-eldeniz-017886218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
   <a target="_blank" href="https://www.instagram.com/grkemeldeniz/"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a target="_blank" href="mailto:gorkemeldeniz30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
